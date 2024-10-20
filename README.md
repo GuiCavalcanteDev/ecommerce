@@ -49,9 +49,6 @@ Antes de iniciar o projeto, certifique-se de ter as seguintes ferramentas instal
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar o projeto.
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Contato
 Para mais informações, entre em contato:
 - **Nome**: Guilherme Cavalcante
